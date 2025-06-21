@@ -16,17 +16,6 @@ Key objectives:
 
 ---
 
-## 📂 Project Structure
-
-├── Stockpred.ipynb # Jupyter notebook with full pipeline
-├── data/ # Folder for datasets (news, tweets, etc.)
-├── models/ # Saved models (optional)
-├── visuals/ # Output plots and visualizations
-├── requirements.txt # Python dependencies
-└── README.md # This file
-
----
-
 ## 📊 Techniques Used
 
 - **Text Preprocessing**: Regex, stopwords, stemming/lemmatization
